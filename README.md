@@ -38,8 +38,8 @@ I'm all about clean setups, optimizing edge-case logic, writing high-performance
 ### GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musabmushtaq&show_icons=true&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&hide_rank=true" alt="Musab's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musabmushtaq&background=0d1117&hide_border=true&ring=58a6ff&fire=ff7b72&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" alt="Musab's Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musabmushtaq&show_icons=true&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&hide_rank=true&cache_seconds=1800" alt="Musab's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musabmushtaq&background=0d1117&hide_border=true&ring=58a6ff&fire=ff7b72&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&cache_seconds=1800" alt="Musab's Streak Stats" width="49%" />
 </p>
 
 
